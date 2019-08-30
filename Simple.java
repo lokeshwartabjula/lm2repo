@@ -3,6 +3,7 @@ class Simple{
 	{
 		Thread.sleep(1000);
 		System.out.println("Hello Java");
+		System.out.println("Second Change");
 	}
 }
 
